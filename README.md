@@ -1,6 +1,11 @@
--  Hi, I’m imad ,but you can call me aspro
-- I’m interested in programming generaly
--  I’m currently learning at 42@thenetwork
+├─▣ Student at 1337 Khouribga
+├─▣ From Taounate Morocco
+├─▣ I love to dig deep into complex problems and attempt to find the simplest yet the most effecient solution.
+├─▣ Up to the challenge.
+├─▣ Interested in low-level Programming, CyberSecurity, DevOps, Netwroking and Web Development.
+│
+└───────────────────────────────▰▰▰
+
 
 <div align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/iez-zagh" alt="iez-zagh's 42 stats" /></a>
