@@ -21,7 +21,7 @@
 ├─▣ Student at 1337 Khouribga
 ├─▣ From Taounate Morocco
 ├─▣ Up to the challenge.
-├─▣ Interested in low-level Programming, DevOps, Netwroking and Web Development.
+├─▣ Interested in low-level Programming, and Web Development.
 │
 └───────────────────────────────▰▰▰
 
@@ -35,8 +35,6 @@
 └───────────────────────────────▰▰▰
 
 ┌──┤ 42 PROJECTS ├───────▰▰▰
-│
-<!-- ├─◈ <a href="look to add the piscine days">Piscine 2021</a> -->
 ├─◈ <a href="https://github.com/iez-zagh/libft">libft</a>
 ├─◈ <a href="https://github.com/iez-zagh/get_next_line">get_next_line</a>
 ├─◈ <a href="https://github.com/iez-zagh/ft_printf">ft_printf</a>
@@ -49,8 +47,6 @@
 ├─◈ <a href="https://github.com/iez-zagh/Born2beRoot">Born2beRoot</a>
 ├─◈ <a href="https://github.com/iez-zagh/CPP_Modules">CPP_Modules</a>
 ├─◈ <a href="https://github.com/iez-zagh/webserv">Webserv</a>
-<!-- ├─◈ <a href="https://github.com/iez-zagh/ft_transcendence">ft_transcendence</a> -->
-│
 └───────────────────────────────▰▰▰
 
 
